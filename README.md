@@ -1,0 +1,2 @@
+# JPI
+JFrog Platform Installer
